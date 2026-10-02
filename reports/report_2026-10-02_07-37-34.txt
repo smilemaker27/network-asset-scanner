@@ -1,0 +1,25 @@
+==================================================
+NETWORK ASSET SCANNER REPORT
+==================================================
+
+Target: 192.168.92.134
+Scan Start: 2026-10-02 07:37:34.374516
+
+Host: 192.168.92.134
+State: up
+
+
+Protocol: tcp
+Port: 135 | Service: msrpc | Version: Microsoft Windows RPC
+Port: 139 | Service: netbios-ssn | Version: Microsoft Windows netbios-ssn
+Port: 445 | Service: microsoft-ds | Version: Microsoft Windows 7 - 10 microsoft-ds
+Port: 49152 | Service: msrpc | Version: Microsoft Windows RPC
+Port: 49153 | Service: msrpc | Version: Microsoft Windows RPC
+Port: 49154 | Service: msrpc | Version: Microsoft Windows RPC
+Port: 49155 | Service: msrpc | Version: Microsoft Windows RPC
+Port: 49156 | Service: msrpc | Version: Microsoft Windows RPC
+
+==================================================
+Scan End: 2026-10-02 07:38:35.392778
+Duration: 0:01:01.018262
+==================================================
